@@ -41,7 +41,7 @@ I am a results-driven engineering professional with over 10 years of experience 
    *Architecting scalable cloud environments dynamically using advanced Terraform modules and state management.*
 2. **[Workflow Automation & System Integrations](https://github.com/gbolanoscruz/python-workflow-automation)**
    *Python-based API scripts and intelligent automation frameworks to eliminate process bottlenecks and system toil.*
-3. **Observable-by-Default CI/CD Pipelines** 
+3. **[Observable-by-Default CI/CD Pipelines](https://github.com/gbolanoscruz/observable-cicd-pipeline)**
    *Automated deployment workflows utilizing GitHub Actions, integrated directly with LMA (Logging, Monitoring, Alerting) frameworks.*
 
 ---
