@@ -37,7 +37,7 @@ I am a results-driven engineering professional with over 10 years of experience 
 
 *(Repositories currently being curated for public release)*
 
-1. **Self-Service Infrastructure (IaC)** 
+1. **[Self-Service Infrastructure (IaC)](https://github.com/gbolanoscruz/azure-terraform-provisioner)**
    *Architecting scalable cloud environments dynamically using advanced Terraform modules and state management.*
 2. **Workflow Automation & System Integrations** 
    *Python-based API scripts and intelligent automation frameworks to eliminate process bottlenecks and system toil.*
